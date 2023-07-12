@@ -1,20 +1,10 @@
 # Prozess der Selbstfindung
 
+"Nur wer den Weg des Herzens geht, kann den Weg des Kriegers beschreiten"
+  Don Juan Matus
+
 "Umarmt euch. Der erste, der loslässt, hat verloren"
   Christian Oetterli, 2023 
 
-## Lebensgrundsätze
-- Liebe
-- Ehre
-- Respekt
-- Bescheidenheit
-- Demut
-
-## Mantras
-- Säubere deinen Weg
-- Befreie dich von Scham
-- Befreie dich von Schuld
-- Sei an deiner Grenze
-- Bleib gesund
-- Were dich nicht gegen deinen instinkt
-
+"Die Gleichheit"
+Universelle Formel zum Beweis der Existenz <- TODO
